@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 # Melody Noir
-Melody Noir is a calm, cinematic dark theme.
-=======
-# Melody Noir Theme
-
 Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a Patrick Watson song, crafted for distraction-free coding.
 
+## Theme Preview
 ![Theme Preview](./images/preview.png)
 
 ### Features
@@ -46,9 +42,6 @@ Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a
 | Error           | `#FF8C8C` | Errors, deletions                  |
 | Warning         | `#D6F65C` | Warnings                           |
 
-## Screenshots
-
-(not)
 
 ## Customization
 
@@ -62,13 +55,9 @@ If you want to customize the theme:
 ```json
 {
   "workbench.colorCustomizations": {
-    "[Malachite Starship]": {
+    "[Melody Noir]": {
       "activityBar.background": "#your-color",
       "editor.background": "#your-color"
     }
   }
 }
-
----
-Inspired by mood, not trends.
->>>>>>> 6c7d7b5 (Initial release: Melody Noir v1.0.0)
