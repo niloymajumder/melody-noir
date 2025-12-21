@@ -1,5 +1,5 @@
 # Melody Noir
-Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a Patrick Watson song, crafted for distraction-free coding.
+Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a Patrick Watson song [Melody Noir](https://www.youtube.com/watch?v=MF-6mBuSGos&list=RDMF-6mBuSGos&start_radio=1), crafted for distraction-free coding.
 
 ## Theme Preview
 ![Theme Preview](./images/preview.png)
