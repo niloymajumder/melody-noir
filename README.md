@@ -6,28 +6,31 @@ Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a
 
 ![Theme Preview](./images/preview.png)
 
-### Features
+## > Features
 
 - Soft, desaturated syntax colors
 - High contrast with low visual noise
 - Carefully tuned UI & terminal colors
 - Designed for long coding sessions
 
-## Installation
+## > Installation
 
-1. Open **Extensions** sidebar in VS Code
-2. Search for `Melody Noir`
+To install the Melody Noir theme directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir):
+
+1. Open the **Extensions** sidebar in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`).
+2. Search for **`Melody Noir`**.
 3. Click **Install**
-4. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
-5. Type `Preferences: Color Theme` and select **Malachite Starship** (current theme accent)
+4. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
+5. Type **`Preferences: Color Theme`** and select it.
+6. Choose **`Malachite Starship`** (crruent theme accent) from the list.
 
-## Manual Installation
+## > Manual Installation
 
 1. Download the latest `.vsix` file from [Releases](https://github.com/niloymajumder/melody-noir/releases)
 2. In VS Code, go to **Extensions** → **...** → **Install from VSIX**
 3. Select the downloaded file
 
-## Color Palette
+## > Color Palette
 
 | Color           | Hex       | Usage                              |
 | --------------- | --------- | ---------------------------------- |
@@ -44,7 +47,7 @@ Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a
 | Error           | `#FF8C8C` | Errors, deletions                  |
 | Warning         | `#D6F65C` | Warnings                           |
 
-## Customization
+## > Customization
 
 If you want to customize the theme:
 
@@ -62,3 +65,17 @@ If you want to customize the theme:
     }
   }
 }
+```
+
+## > Bug Reporting & Contributions
+
+<!-- [github-only] -->
+**Early Release Status:**
+This is a new theme in its initial release. While I thoroughly tested, some visual bugs or incomplete syntax highlighting may exist. If you notice any visual issues, bugs, or have suggestions for improvement, please let us know.
+
+- **Report a bug**: Please open an [issue on GitHub](https://github.com/niloymajumder/melody-noir/issues)
+- **Contribute a fix**: If you're comfortable with code, feel free to submit a pull request (PR) with your proposed changes.
+
+Your feedback is essential for improving the theme!
+
+<!-- [/github-only] -->
