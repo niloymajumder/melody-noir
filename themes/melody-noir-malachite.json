@@ -1,8 +1,8 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Malachite Starship Refined",
-	"author": "Malachite Starship",
-	"publisher": "Malachite Starship",
+	"name": "Malachite Starship",
+	"author": "Niloy Majumder",
+	"publisher": "bluefloyd",
 	"semanticClass": "theme.malachitestarship",
 	"semanticHighlighting": true,
 	"colors": {

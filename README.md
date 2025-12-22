@@ -16,10 +16,10 @@ Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a
 ## Installation
 
 1. Open **Extensions** sidebar in VS Code
-2. Search for `Malachite Starship`
+2. Search for `Melody Noir`
 3. Click **Install**
 4. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
-5. Type `Preferences: Color Theme` and select **Malachite Starship**
+5. Type `Preferences: Color Theme` and select **Malachite Starship** (current theme accent)
 
 ## Manual Installation
 
