@@ -1,5 +1,13 @@
 # Melody Noir
 
+<span>
+  <a href="https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir"><img src="https://img.shields.io/badge/vscode-marketplace-7A5EA8?style=flat&logo=visualstudiocode&logoColor=0D0F15" alt="VS Code Marketplace"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir"><img src="https://img.shields.io/visual-studio-marketplace/i/bluefloyd.melody-noir?style=flat&color=7A5EA8&logoColor=0D0F15&label=installs" alt="Installs"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir"><img src="https://img.shields.io/visual-studio-marketplace/r/bluefloyd.melody-noir?style=flat&color=7A5EA8&logoColor=0D0F15&label=rating" alt="Rating"></a>
+  <a href="https://github.com/niloymajumder/melody-noir"><img src="https://img.shields.io/badge/status-public-7A5EA8?style=flat&logo=github&logoColor=0D0F15" alt="Status: Public"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-mit-7A5EA8?style=flat&logoColor=0D0F15" alt="License: MIT"></a>
+</span>
+
 *A VS Code theme collection inspired by music.*
 
 Melody Noir transforms songs into **color palettes for code** — calm, cinematic, and distraction-free environments designed for long creative sessions.
@@ -13,10 +21,6 @@ Melody Noir transforms songs into **color palettes for code** — calm, cinemati
 ---
 
 ## Install
-
-[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir)
-![Installs](https://img.shields.io/visual-studio-marketplace/i/bluefloyd.melody-noir)
-![Rating](https://img.shields.io/visual-studio-marketplace/r/bluefloyd.melody-noir)
 
 1. Open **Extensions** (`Ctrl + Shift + X`)
 2. Search **Melody Noir**
@@ -36,7 +40,7 @@ Melody Noir transforms songs into **color palettes for code** — calm, cinemati
 
 ### v2 — Gorillaz x Melody Noir
 
-A growing collection of themes from the Gorillaz album *The Mountain* (2026). v2.0.0 launches with three songs — more from the album coming soon.
+A growing collection of themes from the Gorillaz album *The Mountain* (2025). v2.0.0 launches with three songs — more from the album coming soon.
 
 Each theme captures a different song's atmosphere.
 
@@ -98,7 +102,7 @@ Override theme colors in `settings.json`:
 
 MIT License
 
-## > Bug Reporting & Contributions
+## Bug Reporting & Contributions
 
 If you notice any visual issues, bugs, or have suggestions for improvement:
 
