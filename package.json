@@ -1,8 +1,8 @@
 {
-  "name": "melody-noir",
+ "name": "melody-noir",
   "displayName": "Melody Noir",
-  "description": "Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a Patrick Watson song, crafted for distraction-free coding.",
-  "version": "1.0.4",
+  "description": "A song-inspired VS Code theme collection — dark, moody, and musical. Now featuring Gorillaz x Melody Noir themes from The Mountain album.",
+  "version": "2.0.0",
   "publisher": "bluefloyd",
   "author": {
     "name": "Niloy Majumder",
@@ -21,7 +21,14 @@
     "malachite",
     "starship",
     "modern",
-    "melody"
+    "melody",
+    "gorillaz",
+    "gorillaz editions",
+    "orange county",
+    "the mountain",
+    "sad god",
+    "moonlight",
+    "indigo"
   ],
   "icon": "images/logo_01.png",
   "galleryBanner": {
@@ -34,6 +41,21 @@
         "label": "Melody Noir",
         "uiTheme": "vs-dark",
         "path": "./themes/melody-noir-malachite.json"
+      },
+      {
+        "label": "Melody Noir: Gorillaz Editions — Orange County",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gorillaz-orange-county.json"
+      },
+      {
+        "label": "Melody Noir: Gorillaz Editions — The Mountain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gorillaz-the-mountain.json"
+      },
+      {
+        "label": "Melody Noir: Gorillaz Editions — The Sad God",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-sad-god-color-theme.json"
       }
     ]
   },

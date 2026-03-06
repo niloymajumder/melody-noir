@@ -1,81 +1,108 @@
 # Melody Noir
 
-Melody Noir is a calm, cinematic dark theme inspired by the mood and melody of a Patrick Watson song [Melody Noir](https://www.youtube.com/watch?v=MF-6mBuSGos&list=RDMF-6mBuSGos&start_radio=1), crafted for distraction-free coding.
+*A VS Code theme collection inspired by music.*
 
-## Theme Preview
+Melody Noir transforms songs into **color palettes for code** — calm, cinematic, and distraction-free environments designed for long creative sessions.
 
-![Theme Preview](./images/preview.png)
+---
 
-## > Features
+## Preview
 
-- Soft, desaturated syntax colors
-- High contrast with low visual noise
-- Carefully tuned UI & terminal colors
-- Designed for long coding sessions
+![Melody Noir Preview](./images/preview.png)
 
-## > Installation
+---
 
-To install the Melody Noir theme directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir):
+## Install
 
-1. Open the **Extensions** sidebar in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`).
-2. Search for **`Melody Noir`**.
-3. Click **Install**
-4. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
-5. Type **`Preferences: Color Theme`** and select it.
-6. Choose **`Malachite Starship`** (crruent theme accent) from the list.
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/bluefloyd.melody-noir)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/bluefloyd.melody-noir)
 
-## > Manual Installation
+1. Open **Extensions** (`Ctrl + Shift + X`)
+2. Search **Melody Noir**
+3. Install
+4. Select via
+   `Preferences → Color Theme`
 
-1. Download the latest `.vsix` file from [Releases](https://github.com/niloymajumder/melody-noir/releases)
-2. In VS Code, go to **Extensions** → **...** → **Install from VSIX**
-3. Select the downloaded file
+---
 
-## > Color Palette
+## Themes
 
-| Color           | Hex       | Usage                              |
-| --------------- | --------- | ---------------------------------- |
-| Primary Green   | `#4BD289` | Functions, strings, active elements|
-| Secondary Green | `#2DD17E` | Highlight, success states          |
-| Lime Accent     | `#D6F65C` | Numbers, constants, warnings       |
-| Teal            | `#016E7F` | Types, classes, UI accents         |
-| Dark Teal       | `#014651` | Keywords, storage                  |
-| Background      | `#1A2324` | Main editor background             |
-| Sidebar         | `#0F1819` | Side panels                        |
-| Text            | `#E6F2F2` | Primary text                       |
-| Muted Text      | `#8AB3B6` | Secondary text                     |
-| Comments        | `#5A7A7F` | Comments, disabled text            |
-| Error           | `#FF8C8C` | Errors, deletions                  |
-| Warning         | `#D6F65C` | Warnings                           |
+### v1 — Malachite Starship
 
-## > Customization
+| Theme                  | Mood                                   |
+| ---------------------- | -------------------------------------- |
+| **Malachite Starship** | Calm malachite greens, teal highlights |
 
-If you want to customize the theme:
+### v2 — Gorillaz x Melody Noir
 
-1. Install the theme
-2. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
-3. Type `Preferences: Open Settings (JSON)`
-4. Add your customizations:
+A growing collection of themes from the Gorillaz album *The Mountain* (2026). v2.0.0 launches with three songs — more from the album coming soon.
 
-```json
+Each theme captures a different song's atmosphere.
+
+| Theme              | Song           | Mood                                                   |
+| ------------------ | -------------- | ------------------------------------------------------ |
+| **Orange County**  | Orange County  | Warm sunset, California melancholy, amber & dusty rose |
+| **The Mountain**   | The Mountain   | Epic ascent, misty dawn, mountain sage & slate sky     |
+| **The Sad God**    | The Sad God    | Sacred cave, bioluminescent glow, moonlit purple       |
+
+**Color palettes:**
+
+| Role        | Orange County | The Mountain | The Sad God |
+| ----------- | ------------- | ------------ | ----------- |
+| Background  | `#211D18`     | `#171B1F`    | `#12141C`   |
+| Foreground  | `#E2D6C8`     | `#D0D8E0`    | `#C8D0DC`   |
+| Strings     | `#E8935E`     | `#6BAA96`    | `#5EAAC8`   |
+| Constants   | `#D9B463`     | `#C4A060`    | `#CCA64E`   |
+| Types       | `#C97B7B`     | `#7A9AB8`    | `#9E80C0`   |
+| Keywords    | `#B87040`     | `#588C74`    | `#7A5EA8`   |
+| Comments    | `#6E5F50`     | `#5A6670`    | `#4E5668`   |
+
+---
+
+## Philosophy
+
+Every theme begins with a **song**.
+
+Instead of designing colors first, Melody Noir listens to the music and translates its **emotion, atmosphere, and rhythm** into a coding environment.
+
+---
+
+## Features
+
+* Song-inspired palettes
+* Low-noise syntax highlighting
+* Carefully tuned contrast
+* Full editor + terminal styling
+* Designed for long coding sessions
+
+---
+
+## Customize
+
+Override theme colors in `settings.json`:
+
+```json id="td3lud"
 {
   "workbench.colorCustomizations": {
-    "[Melody Noir]": {
-      "activityBar.background": "#your-color",
+    "[Melody Noir: Gorillaz Editions — The Sad God]": {
       "editor.background": "#your-color"
     }
   }
 }
 ```
 
+---
+
+## License
+
+MIT License
+
 ## > Bug Reporting & Contributions
 
-<!-- [github-only] -->
-**Early Release Status:**
-This is a new theme in its initial release. While I thoroughly tested, some visual bugs or incomplete syntax highlighting may exist. If you notice any visual issues, bugs, or have suggestions for improvement, please let us know.
+If you notice any visual issues, bugs, or have suggestions for improvement:
 
-- **Report a bug**: Please open an [issue on GitHub](https://github.com/niloymajumder/melody-noir/issues)
-- **Contribute a fix**: If you're comfortable with code, feel free to submit a pull request (PR) with your proposed changes.
+* **Report a bug**: Open an [issue on GitHub](https://github.com/niloymajumder/melody-noir/issues)
+* **Contribute a fix**: Submit a pull request with your proposed changes
 
-Your feedback is essential for improving the theme!
-
-<!-- [/github-only] -->
+Your feedback is essential for improving the themes!
