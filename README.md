@@ -1,95 +1,81 @@
+<div align="center">
+
+![Melody Noir Banner](./images/banner.png)
+
 # Melody Noir
+
+*A collective of VS Code themes inspired by music.* <br>
+Melody Noir transforms songs into **color palettes for code** — calm, cinematic, and distraction-free environments designed for long creative sessions.
 
 <span>
   <a href="https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir"><img src="https://img.shields.io/badge/vscode-marketplace-7A5EA8?style=flat&logo=visualstudiocode&logoColor=0D0F15" alt="VS Code Marketplace"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir"><img src="https://img.shields.io/visual-studio-marketplace/i/bluefloyd.melody-noir?style=flat&color=7A5EA8&logoColor=0D0F15&label=installs" alt="Installs"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir"><img src="https://img.shields.io/visual-studio-marketplace/r/bluefloyd.melody-noir?style=flat&color=7A5EA8&logoColor=0D0F15&label=rating" alt="Rating"></a>
   <a href="https://github.com/niloymajumder/melody-noir"><img src="https://img.shields.io/badge/status-public-7A5EA8?style=flat&logo=github&logoColor=0D0F15" alt="Status: Public"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-mit-7A5EA8?style=flat&logoColor=0D0F15" alt="License: MIT"></a>
 </span>
 
-*A VS Code theme collection inspired by music.*
-
-Melody Noir transforms songs into **color palettes for code** — calm, cinematic, and distraction-free environments designed for long creative sessions.
+</div>
 
 ---
 
-## Preview
+## In a Nutshell
+>
+> A handcrafted collection of VS Code themes
+
+- **Song-Inspired Themes**: Each theme is born from a song’s mood, rhythm, and atmosphere.
+- **Low-Noise Design**: Soft, desaturated syntax colors with high contrast and minimal visual clutter.
+- **Full Integration**: Themes extend to UI, terminal, and Git for a seamless experience.
+- **Built for Focus**: Designed for long coding sessions, reducing eye strain and distractions.
+
+---
+
+## Previews
 
 ![Melody Noir Preview](./images/preview.png)
-
----
-
-## Install
-
-1. Open **Extensions** (`Ctrl + Shift + X`)
-2. Search **Melody Noir**
-3. Install
-4. Select via
-   `Preferences → Color Theme`
+![Gorzilla](./images/preview.png)
+![Melody Noir Preview](./images/preview.png)
+![Melody Noir Preview](./images/preview.png)
 
 ---
 
 ## Themes
 
-### v1 — Malachite Starship
+### Malachite Starship
 
-| Theme                  | Mood                                   |
-| ---------------------- | -------------------------------------- |
-| **Malachite Starship** | Calm malachite greens, teal highlights |
+> v1.0.0
 
-### v2 — Gorillaz x Melody Noir
+Inspired by [*Melody Noir — Patrick Watson*](https://open.spotify.com/track/1e1a7eAlICks9mch3UVsEH?si=8d835943658c45da)
 
-A growing collection of themes from the Gorillaz album *The Mountain* (2025). v2.0.0 launches with three songs — more from the album coming soon.
-
-Each theme captures a different song's atmosphere.
-
-| Theme              | Song           | Mood                                                   |
-| ------------------ | -------------- | ------------------------------------------------------ |
-| **Orange County**  | Orange County  | Warm sunset, California melancholy, amber & dusty rose |
-| **The Mountain**   | The Mountain   | Epic ascent, misty dawn, mountain sage & slate sky     |
-| **The Sad God**    | The Sad God    | Sacred cave, bioluminescent glow, moonlit purple       |
-
-**Color palettes:**
-
-| Role        | Orange County | The Mountain | The Sad God |
-| ----------- | ------------- | ------------ | ----------- |
-| Background  | `#211D18`     | `#171B1F`    | `#12141C`   |
-| Foreground  | `#E2D6C8`     | `#D0D8E0`    | `#C8D0DC`   |
-| Strings     | `#E8935E`     | `#6BAA96`    | `#5EAAC8`   |
-| Constants   | `#D9B463`     | `#C4A060`    | `#CCA64E`   |
-| Types       | `#C97B7B`     | `#7A9AB8`    | `#9E80C0`   |
-| Keywords    | `#B87040`     | `#588C74`    | `#7A5EA8`   |
-| Comments    | `#6E5F50`     | `#5A6670`    | `#4E5668`   |
+A calm palette of melancholy greens and soft teals designed for distraction-free environments.
 
 ---
 
-## Philosophy
+### Gorillaz Editions
 
-Every theme begins with a **song**.
+Inspired by [*The Mountain (2026) — Gorillaz.*](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD?si=4ljykkyKRIWxTvMcyhs0TQ)
+> v2.0.0
 
-Instead of designing colors first, Melody Noir listens to the music and translates its **emotion, atmosphere, and rhythm** into a coding environment.
+These themes interpret different songs from the album as coding environments — from warm sunset tones to moonlit indigo atmospheres.
 
----
-
-## Features
-
-* Song-inspired palettes
-* Low-noise syntax highlighting
-* Carefully tuned contrast
-* Full editor + terminal styling
-* Designed for long coding sessions
+*More interpretations of this album will be added soon.*
 
 ---
 
-## Customize
+## Install
 
-Override theme colors in `settings.json`:
+1. Open **Extensions** on VS Code (`Ctrl + Shift + X`).
+2. Search for [**Melody Noir**](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir)
+3. Install and select via `Preferences → Color Theme`.
 
-```json id="td3lud"
+---
+
+## Customization
+
+Theme colors can be overridden in `settings.json`.
+
+```json
 {
   "workbench.colorCustomizations": {
-    "[Melody Noir: Gorillaz Editions — The Sad God]": {
+    "[Melody Noir - The Sad God]": {
       "editor.background": "#your-color"
     }
   }
@@ -98,15 +84,17 @@ Override theme colors in `settings.json`:
 
 ---
 
-## License
-
-MIT License
-
 ## Bug Reporting & Contributions
 
 If you notice any visual issues, bugs, or have suggestions for improvement:
 
-* **Report a bug**: Open an [issue on GitHub](https://github.com/niloymajumder/melody-noir/issues)
-* **Contribute a fix**: Submit a pull request with your proposed changes
+- **Report a bug**: Open an [issue on GitHub](https://github.com/niloymajumder/melody-noir/issues)
+- **Contribute a fix**: Submit a pull request with your proposed changes
 
 Your feedback is essential for improving the themes!
+
+---
+
+## License
+
+MIT License ©2026 | Studio Bluefloyd
