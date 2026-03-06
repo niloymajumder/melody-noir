@@ -30,10 +30,10 @@ Melody Noir transforms songs into **color palettes for code** — calm, cinemati
 
 ## Previews
 
-![Melody Noir Preview](./images/preview.png)
-![Gorzilla](./images/preview.png)
-![Melody Noir Preview](./images/preview.png)
-![Melody Noir Preview](./images/preview.png)
+<!-- ![Melody Noir Preview](./images/preview.png) -->
+<!-- ![Gorzilla](./images/preview.png) -->
+<!-- ![Melody Noir Preview](./images/preview.png) -->
+<!-- ![Melody Noir Preview](./images/preview.png) -->
 
 ---
 
