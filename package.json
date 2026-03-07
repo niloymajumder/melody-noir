@@ -1,8 +1,8 @@
 {
- "name": "melody-noir",
+  "name": "melody-noir",
   "displayName": "Melody Noir",
   "description": "A song-inspired VS Code theme collection — dark, moody, and musical. Now featuring Gorillaz x Melody Noir themes from The Mountain album.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "bluefloyd",
   "author": {
     "name": "Niloy Majumder",

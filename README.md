@@ -30,10 +30,15 @@ Melody Noir transforms songs into **color palettes for code** — calm, cinemati
 
 ## Previews
 
-<!-- ![Melody Noir Preview](./images/preview.png) -->
-<!-- ![Gorzilla](./images/preview.png) -->
-<!-- ![Melody Noir Preview](./images/preview.png) -->
-<!-- ![Melody Noir Preview](./images/preview.png) -->
+![All Themes](./images/aio.png)
+
+| Melody Noir | Orange County |
+|:-----------:|:-------------:|
+| ![Melody Noir](./images/melody_noir.png) | ![Orange County](./images/orange_country.png) |
+
+| The Mountain | The Sad God |
+|:------------:|:-----------:|
+| ![The Mountain](./images/the_mountain.png) | ![The Sad God](./images/the_sad_god.png) |
 
 ---
 
@@ -75,7 +80,7 @@ Theme colors can be overridden in `settings.json`.
 ```json
 {
   "workbench.colorCustomizations": {
-    "[Melody Noir - The Sad God]": {
+    "[Melody Noir: Gorillaz Editions — The Sad God]": {
       "editor.background": "#your-color"
     }
   }

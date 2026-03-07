@@ -2,7 +2,12 @@
 
 All notable changes to Melody Noir theme will be documented in this file.
 
-## [v2.0.0] — Gorillaz x Melody Noir
+## [v2.0.1]
+
+- Updated README with preview images and badges
+- Fixed theme label references
+
+## [v2.0.0] — Gorillaz x Melody Noir (Initial Launch)
 
 First three themes from the Gorillaz album *The Mountain* (2025) — more songs coming in next updates:
 
