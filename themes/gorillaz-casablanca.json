@@ -264,7 +264,11 @@
         "gitDecoration.deletedResourceForeground": "#ff8787",
         "gitDecoration.renamedResourceForeground": "#7ac8d0",
         "gitDecoration.ignoredResourceForeground": "#ffffff3f",
-        "gitDecoration.conflictingResourceForeground": "#D4A574"
+        "gitDecoration.conflictingResourceForeground": "#D4A574",
+        "titleBar.activeBackground": "#1a1a1a",
+        "titleBar.activeForeground": "#D4A574",
+        "titleBar.inactiveBackground": "#050505",
+        "titleBar.inactiveForeground": "#666666"
     },
     "tokenColors": [
         {

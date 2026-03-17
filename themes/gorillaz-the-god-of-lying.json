@@ -272,7 +272,11 @@
         "terminalCommandDecoration.errorBackground": "#E87070",
         "terminalCommandDecoration.successBackground": "#A8E6CF",
         "terminalOverviewRuler.cursorForeground": "#D4AF37",
-        "terminalOverviewRuler.findMatchForeground": "#D4AF37"
+        "terminalOverviewRuler.findMatchForeground": "#D4AF37",
+        "titleBar.activeBackground": "#131129",
+        "titleBar.activeForeground": "#D4AF37",
+        "titleBar.inactiveBackground": "#050505",
+        "titleBar.inactiveForeground": "#666666"
     },
     "tokenColors": [
         {
