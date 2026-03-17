@@ -32,13 +32,13 @@ Melody Noir transforms songs into **color palettes for code** — calm, cinemati
 
 ![All Themes](./images/aio.png)
 
-| Melody Noir | Orange County |
-|:-----------:|:-------------:|
-| ![Melody Noir](./images/melody_noir.png) | ![Orange County](./images/orange_country.png) |
+| Melody Noir | Orange County | The Mountain | The Sad God |
+|:-----------:|:-------------:|:------------:|:-----------:|
+| ![Melody Noir](./images/melody_noir.png) | ![Orange County](./images/orange_country.png) | ![The Mountain](./images/the_mountain.png) | ![The Sad God](./images/the_sad_god.png) |
 
-| The Mountain | The Sad God |
-|:------------:|:-----------:|
-| ![The Mountain](./images/the_mountain.png) | ![The Sad God](./images/the_sad_god.png) |
+| Delirium | The God of Lying | Casablanca | The Manifesto |
+|:--------:|:----------------:|:----------:|:-------------:|
+| ![Delirium](./images/delirium.png) | ![The God of Lying](./images/the_god_of_lying.png) | ![Casablanca](./images/casablanca.png) | ![The Manifesto](./images/manifesto.png) |
 
 ---
 
@@ -57,11 +57,23 @@ A calm palette of melancholy greens and soft teals designed for distraction-free
 ### Gorillaz Editions
 
 Inspired by [*The Mountain (2026) — Gorillaz.*](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD?si=4ljykkyKRIWxTvMcyhs0TQ)
-> v2.0.0
+> v2.0.0–v2.1.0
 
-These themes interpret different songs from the album as coding environments — from warm sunset tones to moonlit indigo atmospheres.
+These themes interpret songs from the album as coding environments — from warm sunset tones to psychedelic neons.
 
-*More interpretations of this album will be added soon.*
+**Orange County** — Warm, nostalgic amber and sienna tones evoking summer dusk.
+
+**The Mountain** — Misty dawn palette with slate blues and soft greens, contemplative and serene.
+
+**The Sad God** — Bioluminescent atmosphere: deep void-blacks with cyan and warm gold, mystical and introspective.
+
+**Delirium** *(v2.1.0)* — Psychedelic chaos: hot pink, neon cyan, electric gold, and radiation green — vibrant and disorienting.
+
+**The God of Lying** *(v2.1.0)* — False divinity: god-gold hierarchies, jade truths, and skeptical purples — satire and subversion.
+
+**Casablanca** *(v2.1.0)* — Noir-dystopia: dame gold, sky blues, and sienna romance — mystery and tension.
+
+**The Manifesto** *(v2.1.0)* — Revolution palette: blood red, revolution orange, and militant blacks — urgency and defiance.
 
 ---
 
@@ -102,4 +114,4 @@ Your feedback is essential for improving the themes!
 
 ## License
 
-MIT License ©2026 | Studio Bluefloyd
+MIT License ©2026 | Niloy Majumder

@@ -1,8 +1,8 @@
 {
   "name": "melody-noir",
   "displayName": "Melody Noir",
-  "description": "A song-inspired VS Code theme collection — dark, moody, and musical. Now featuring Gorillaz x Melody Noir themes from The Mountain album.",
-  "version": "2.0.1",
+  "description": "A collective of VS Code themes inspired by songs—designed to fuel productivity, creativity, and rhythm in your workflow. Now featuring Gorillaz x Melody Noir themes from The Mountain album.",
+  "version": "2.1.0",
   "publisher": "bluefloyd",
   "author": {
     "name": "Niloy Majumder",
@@ -56,6 +56,26 @@
         "label": "Melody Noir: Gorillaz Editions — The Sad God",
         "uiTheme": "vs-dark",
         "path": "./themes/the-sad-god-color-theme.json"
+      },
+      {
+        "label": "Melody Noir: Gorillaz Editions — Delirium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gorillaz-delirium.json"
+      },
+      {
+        "label": "Melody Noir: Gorillaz Editions — The God of Lying",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gorillaz-the-god-of-lying.json"
+      },
+      {
+        "label": "Melody Noir: Gorillaz Editions — Casablanca",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gorillaz-casablanca.json"
+      },
+      {
+        "label": "Melody Noir: Gorillaz Editions — The Manifesto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gorillaz-the-manifesto.json"
       }
     ]
   },
