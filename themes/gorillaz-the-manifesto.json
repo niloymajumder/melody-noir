@@ -240,8 +240,8 @@
         "terminalCommandDecoration.successBackground": "#C4B28A",
         "terminalOverviewRuler.cursorForeground": "#E46876",
         "terminalOverviewRuler.findMatchForeground": "#E46876",
-        "titleBar.activeBackground": "#0f1419",
-        "titleBar.activeForeground": "#E46876",
+        "titleBar.activeBackground": "#0a0a0a",
+        "titleBar.activeForeground": "#aaaaaa",
         "titleBar.inactiveBackground": "#050505",
         "titleBar.inactiveForeground": "#666666"
     },
