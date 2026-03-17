@@ -2,6 +2,12 @@
 
 All notable changes to Melody Noir theme will be documented in this file.
 
+## [v2.1.2] — Window Chrome Refinements
+
+- Added and refined `titleBar` color styling for new Gorillaz themes for better visual cohesion.
+- Updated Delirium, The Manifesto, and The God of Lying titlebars to a subtle neutral scheme for cleaner top-bar contrast.
+- Fixed VS Code color schema compatibility issues in Casablanca (unsupported/deprecated color keys and overview ruler transparency).
+
 ## [v2.1.0] — Four More Themes Drops from Gorillaz Editions & Quality Improvements
 
 Four additional Gorillaz album *The Mountain* (2026) interpretations, expanding the visual diversity and improved UI hierarchy:
