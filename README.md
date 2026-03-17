@@ -38,7 +38,7 @@ Melody Noir transforms songs into **color palettes for code** — calm, cinemati
 
 | Delirium | The God of Lying | Casablanca | The Manifesto |
 |:--------:|:----------------:|:----------:|:-------------:|
-| ![Delirium](./images/delirium.png) | ![The God of Lying](./images/the_god_of_lying.png) | ![Casablanca](./images/casablanca.png) | ![The Manifesto](./images/manifesto.png) |
+| ![Delirium](./images/delirium.png) | ![The God of Lying](./images/the_god_of_lying.png) | ![Casablanca](./images/Casablanca.png) | ![The Manifesto](./images/manifesto.png) |
 
 ---
 
