@@ -57,7 +57,7 @@ A calm palette of melancholy greens and soft teals designed for distraction-free
 ### Gorillaz Editions
 
 Inspired by [*The Mountain (2026) — Gorillaz.*](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD?si=4ljykkyKRIWxTvMcyhs0TQ)
-> v2.0.0–v2.1.0
+> v2.0.0–v2.1.2
 
 These themes interpret songs from the album as coding environments — from warm sunset tones to psychedelic neons.
 
@@ -67,13 +67,13 @@ These themes interpret songs from the album as coding environments — from warm
 
 **The Sad God** — Bioluminescent atmosphere: deep void-blacks with cyan and warm gold, mystical and introspective.
 
-**Delirium** *(v2.1.0)* — Psychedelic chaos: hot pink, neon cyan, electric gold, and radiation green — vibrant and disorienting.
+**Delirium** *(v2.1.2)* — Psychedelic chaos: hot pink, neon cyan, electric gold, and radiation green — vibrant and disorienting.
 
-**The God of Lying** *(v2.1.0)* — False divinity: god-gold hierarchies, jade truths, and skeptical purples — satire and subversion.
+**The God of Lying** *(v2.1.2)* — False divinity: god-gold hierarchies, jade truths, and skeptical purples — satire and subversion.
 
-**Casablanca** *(v2.1.0)* — Noir-dystopia: dame gold, sky blues, and sienna romance — mystery and tension.
+**Casablanca** *(v2.1.2)* — Noir-dystopia: dame gold, sky blues, and sienna romance — mystery and tension.
 
-**The Manifesto** *(v2.1.0)* — Revolution palette: blood red, revolution orange, and militant blacks — urgency and defiance.
+**The Manifesto** *(v2.1.2)* — Revolution palette: blood red, revolution orange, and militant blacks — urgency and defiance.
 
 ---
 
